@@ -1,5 +1,8 @@
 body {
     text-align: center;
+    background-image: url(https://t3.ftcdn.net/jpg/08/09/59/04/240_F_809590432_8rZqGOmF28QAhFnN6c2kN1DUmEweSFhx.jpg);
+    background-size: cover;
+
 }
 .btn {
     height: 200px;
